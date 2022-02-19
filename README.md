@@ -4,5 +4,4 @@ test = '/content/drive/My Drive/Colab_Notebooks/test-mails'
 train = '/content/drive/My Drive/Colab_Notebooks/train-mails'
 A number of packages had to be imported as well as definition of multiple functions to finally be able to derive the findings and calculte the accuracy scores
 
-#Author
 Sanjana Chowdhury, MSBA'23.
